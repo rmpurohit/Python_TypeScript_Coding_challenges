@@ -1,0 +1,66 @@
+# --- OS / Editors ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*.orig
+
+# --- Environment files (keep examples) ---
+.env
+.env.*
+!.env.example
+
+# --- Node / TypeScript ---
+node_modules/
+dist/
+build/
+out/
+.nyc_output/
+coverage/
+.eslintcache
+.ts-node
+*.tsbuildinfo
+
+# --- Logs ---
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging / build artifacts
+build/
+dist/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+.installed.cfg
+
+# Test / type checker caches
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
