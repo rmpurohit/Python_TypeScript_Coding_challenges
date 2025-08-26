@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node BuySellStock.ts",
+    "start": "ts-node ContainerWithMostWater.ts",
     "build": "tsc",
-    "run": "node dist/BuySellStock.js"
+    "run": "node dist/ContainerWithMostWater.js"
   },
   "keywords": [],
   "author": "",
