@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node RemoveDuplicatesFromSortedArray.ts",
+    "start": "ts-node BuySellStock.ts",
     "build": "tsc",
-    "run": "node dist/RemoveDuplicatesFromSortedArray.js"
+    "run": "node dist/BuySellStock.js"
   },
   "keywords": [],
   "author": "",
