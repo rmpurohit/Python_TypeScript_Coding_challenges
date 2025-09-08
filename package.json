@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node Palindrome.ts",
+    "start": "ts-node Subsequence.ts",
     "build": "tsc",
-    "run": "node dist/Palindrome.js"
+    "run": "node dist/Subsequence.js"
   },
   "keywords": [],
   "author": "",
